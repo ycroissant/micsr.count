@@ -1,0 +1,14 @@
+Package: micsr.count
+Version: 0.1-0
+Date: 2024-11-06
+Title: Micro-Econometrics with R: count data
+Author: Yves Croissant <yves.croissant@univ-reunion.fr>
+Maintainer: Yves Croissant <yves.croissant@univ-reunion.fr>
+Depends: R (>= 3.5.0)
+Description: Count data sets
+VignetteBuilder: knitr
+LazyData: true
+License: GPL (>=2)
+URL: http://www.r-project.org
+NeedsCompilation: no
+Packaged: 2024-11-06 05:32:00 UTC; yves
